@@ -30,7 +30,7 @@ const Countries = ({ countriesPromise }) => {
             <h1>You and I :  visited countries : {countries.length}</h1>
 
             <h3>Total county visited : {visitedCountries.length}</h3>
-            <h3>Total visieted flage: {visitedFlags.length}</h3>
+            <h3>Total visieted flager : {visitedFlags.length}</h3>
 
             <ol>
                 {
